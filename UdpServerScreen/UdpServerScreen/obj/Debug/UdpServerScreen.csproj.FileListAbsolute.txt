@@ -1,0 +1,25 @@
+c:\users\рахимовс\source\repos\UdpServerScreen\UdpServerScreen\bin\Debug\UdpServerScreen.exe.config
+c:\users\рахимовс\source\repos\UdpServerScreen\UdpServerScreen\bin\Debug\UdpServerScreen.exe
+c:\users\рахимовс\source\repos\UdpServerScreen\UdpServerScreen\bin\Debug\UdpServerScreen.pdb
+c:\users\рахимовс\source\repos\UdpServerScreen\UdpServerScreen\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+c:\users\рахимовс\source\repos\UdpServerScreen\UdpServerScreen\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+c:\users\рахимовс\source\repos\UdpServerScreen\UdpServerScreen\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+c:\users\рахимовс\source\repos\UdpServerScreen\UdpServerScreen\bin\Debug\ru\Microsoft.Data.Tools.Com.Interop.resources.dll
+c:\users\рахимовс\source\repos\UdpServerScreen\UdpServerScreen\obj\Debug\UdpServerScreen.csprojAssemblyReference.cache
+c:\users\рахимовс\source\repos\UdpServerScreen\UdpServerScreen\obj\Debug\UdpServerScreen.csproj.CoreCompileInputs.cache
+c:\users\рахимовс\source\repos\UdpServerScreen\UdpServerScreen\obj\Debug\UdpServerScreen.csproj.CopyComplete
+c:\users\рахимовс\source\repos\UdpServerScreen\UdpServerScreen\obj\Debug\UdpServerScreen.exe
+c:\users\рахимовс\source\repos\UdpServerScreen\UdpServerScreen\obj\Debug\UdpServerScreen.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpServerScreen\UdpServerScreen\bin\Debug\UdpServerScreen.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpServerScreen\UdpServerScreen\bin\Debug\UdpServerScreen.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpServerScreen\UdpServerScreen\bin\Debug\UdpServerScreen.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpServerScreen\UdpServerScreen\bin\Debug\Microsoft.Data.Tools.Com.Interop.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpServerScreen\UdpServerScreen\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpServerScreen\UdpServerScreen\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpServerScreen\UdpServerScreen\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpServerScreen\UdpServerScreen\bin\Debug\ru\Microsoft.Data.Tools.Com.Interop.resources.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpServerScreen\UdpServerScreen\obj\Debug\UdpServerScreen.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpServerScreen\UdpServerScreen\obj\Debug\UdpServerScreen.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpServerScreen\UdpServerScreen\obj\Debug\UdpServerScreen.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpServerScreen\UdpServerScreen\obj\Debug\UdpServerScreen.pdb
+C:\Users\РахимовС\source\repos\UdpServerScreen\UdpServerScreen\bin\Debug\Microsoft.Data.Tools.Com.Interop.dll
